@@ -30,6 +30,8 @@ from VenomMusic.utils.database import (
     group_assistant,
     is_autoend,
     is_autoplay,
+    autoplay_on,
+    autoplay_off,
     music_on,
     remove_active_chat,
     remove_active_video_chat,
